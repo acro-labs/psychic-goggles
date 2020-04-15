@@ -1,0 +1,3 @@
+([('sort_folder',
+   '/Users/martinkvist/Repositories/sort_folder/dist/sort_folder',
+   'EXECUTABLE')],)
