@@ -1,5 +1,8 @@
 # psychic-goggles
-Portable python app to sort desktop on mac
+Welcome to the Linux Labs **acro-labs/psychic-googles** repository. In this repo you will find a small python script packaged with pyinstaller to make a Portable python app to sort the files on your desktop on macOSX Mojave. 
+
+## Get Started 
+Follow the instructions below to download and run the program on your mac, the app will organize the files on your desktop into folders based on file-endings. The app defaults to sorting the desktop folder, but you can run it on any folder by passing it the path as an argument if you run it from the terminal.  
 
 # Instructions 
 Download the zip file by pressing the download button above 
